@@ -5,10 +5,10 @@
 
 ### Materi :
 
-1. __Hit Counter__
-> Counter digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. Counter biasanya ditampilkan dalam bentuk teks.
+1. __*Hit Counter*__
+> *Counter* digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. Counter biasanya ditampilkan dalam bentuk teks.
 
-2. GuestBook
-> GuestBook merupakan salah satu form yang digunakan untuk berinteraksi dengan pengunjung. Melalui form tersebut, pengunjung dapat memberikan input komentar dan dikelola oleh pemilik website.
+2. __*GuestBook*__
+> *GuestBook* merupakan salah satu form yang digunakan untuk berinteraksi dengan pengunjung. Melalui *form* tersebut, pengunjung dapat memberikan input komentar dan dikelola oleh pemilik *website*.
 
-3. Fungsi Upload
+3. __Fungsi *Upload*__
