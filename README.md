@@ -1,5 +1,8 @@
 # pwd-1
 
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/himawanTIF/pwd-1/blob/main/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/himawanTIF/pwd-1/graphs/commit-activity/)
+
 ## Praktikum Pemrograman Web Dinamis Pertemuan 1
 [Link Video Praktikum](https://youtu.be/Yyp54G0yN24)
 
