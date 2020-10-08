@@ -9,6 +9,6 @@
 > Counter digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. Counter biasanya ditampilkan dalam bentuk teks.
 
 2. GuestBook
-
+> GuestBook merupakan salah satu form yang digunakan untuk berinteraksi dengan pengunjung. Melalui form tersebut, pengunjung dapat memberikan input komentar dan dikelola oleh pemilik website.
 
 3. Fungsi Upload
