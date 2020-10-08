@@ -12,5 +12,6 @@ if (move_uploaded_file($lokasi_file, $direktori)){
 }else{
     echo "File Gagal diupload";
 }
-
+echo "<br>";
+echo "<a href=download.php>Download File</a>";
 ?>
