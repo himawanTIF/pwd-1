@@ -6,9 +6,10 @@
 ### Materi :
 
 1. __*Hit Counter*__
-> *Counter* digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. Counter biasanya ditampilkan dalam bentuk teks.
+> *Counter* digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. *Counter* biasanya ditampilkan dalam bentuk teks.
 
 2. __*GuestBook*__
-> *GuestBook* merupakan salah satu form yang digunakan untuk berinteraksi dengan pengunjung. Melalui *form* tersebut, pengunjung dapat memberikan input komentar dan dikelola oleh pemilik *website*.
+> *GuestBook* merupakan salah satu form yang digunakan untuk berinteraksi dengan pengunjung. Melalui form tersebut, pengunjung dapat memberikan *input* komentar dan dikelola oleh pemilik *website*.
 
 3. __Fungsi *Upload*__
+> Fungsi *Upload* merupakan salah satu fungsi yang digunakan untuk mengirim file dari lokal *(client)* ke *server*. File yang dikirim dapat berupa foto/gambar atau file dokumen yang lain.
