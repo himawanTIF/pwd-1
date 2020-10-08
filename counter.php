@@ -1,4 +1,5 @@
 <?php
+
 $filecounter="counter.txt";
 $fl=fopen($filecounter,"r+"); //Load file, r=read
 $hit=fread($fl, filesize($filecounter));//Fungsi hit membaca jumlah pengunjung dari file(fread)
@@ -19,4 +20,5 @@ $fl=fopen($filecounter,"w+");
 $hit=$hit+1;
 fwrite($fl,$hit,strlen($hit)); //Tulis ke dalam file
 fclose($fl); //Tutup file (fclose)
+
 ?>
