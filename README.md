@@ -5,7 +5,7 @@
 
 ### Materi :
 
-1. Hit Counter
+1. __Hit Counter__
 > Counter digunakan untuk menghitung berapa kali suatu halaman situs web telah ditampilkan. Counter biasanya ditampilkan dalam bentuk teks.
 
 2. GuestBook
