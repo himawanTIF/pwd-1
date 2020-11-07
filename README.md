@@ -1,7 +1,9 @@
 # pwd-1
 
-![GitHub](https://img.shields.io/github/license/himawanTIF/pwd-1?style=flat-square)
-![Maintenance](https://img.shields.io/maintenance/yes/2020?style=flat-square)
+<a href="https://github.com/himawanTIF/pwd-1/blob/main/LICENSE" alt="License">
+  <img alt="GitHub" src="https://img.shields.io/github/license/himawanTIF/pwd-1?style=flat-square"></a>
+<a href="https://github.com/himawanTIF/pwd-1/graphs/commit-activity" alt="Maintenance">
+  <img alt="Maintenance" src="https://img.shields.io/maintenance/yes/2020?style=flat-square"></a>
 
 ## Praktikum Pemrograman Web Dinamis Pertemuan 1
 [Link Video Praktikum](https://youtu.be/Yyp54G0yN24)
